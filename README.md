@@ -1,6 +1,6 @@
-**# estudo-ansible
+# estudo-ansible
 Um guia de estudo para mim em ansible/yaml/playbook
-**# Requirementos para funcionar o Ansible nos computadores com Ubuntu 24.04
+# Requirementos para funcionar o Ansible nos computadores com Ubuntu 24.04
 -  SSH (todos)
 - Python (todos)
 - Ansible (Na maquina host automatadora)
