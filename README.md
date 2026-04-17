@@ -33,10 +33,6 @@ Os Playbooks são arquivos escritos em YAML (Yet Another Markup Language) que de
 
 Exemplo: instalar_pacotes.yml
 Este playbook atualiza o cache do APT e instala o Nginx nos servidores do grupo webservers.
-
-yaml
-
----
 - name: Instalação e Configuração de Pacotes
   hosts: webservers
   become: yes  # Equivalente ao sudo
